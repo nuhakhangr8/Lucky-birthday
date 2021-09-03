@@ -39,3 +39,19 @@ input{
 .output-box{
     padding: 1rem;
 }
+ul{
+    margin: auto;
+    text-align: center;
+    margin-right: 3rem;
+}
+li{
+    list-style: none;
+    padding-top: 1rem;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.link-active{
+    font-weight: bolder;
+}
